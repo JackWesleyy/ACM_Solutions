@@ -2,7 +2,7 @@
 
 ## 题目描述             
 
-![image-20250122202745098](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250122202745098.png)
+给定一个数组，问有多少对元素满足它们的gcd等于xor
 
 ### 解析：
 
