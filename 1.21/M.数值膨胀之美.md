@@ -2,7 +2,7 @@
 
 ## 题目描述             
 
-![image-20250122201235533](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250122201235533.png)
+给定一个数组，可以选择一个区间将所有元素乘2，问操作后的最小极差
 
 ### 解析：
 
